@@ -34,7 +34,9 @@ This project demonstrates the integration of Python with MySQL to create a pract
 This project was developed by:
 
 Gaurav Kaushik - Done the coding for EMPLOYEES part.
+
 Dushyant Kr. Tomar - Done the coding for ADMINS part.
+
 Aryan Arora - Done the coding for USERS part.
 
                                                             ------------()()()()-----------
