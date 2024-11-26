@@ -1,7 +1,9 @@
 Hotel Management System
+
 This Hotel Management System project is a comprehensive solution for managing hotel operations, built using Python for the application logic and MySQL for database management. The system simplifies day-to-day tasks such as booking management, customer check-ins/check-outs, room availability tracking, and billing, making it an ideal tool for small to medium-sized hotels.
 
 Features
+
 Room Management: Add, edit, and delete room details such as room type, pricing, and availability.
 
 Customer Management: Record and manage customer details for easy reference.
@@ -17,16 +19,17 @@ Database Integration: All data is stored securely in a MySQL database, ensuring 
 User-friendly Interface: Simple and intuitive menus for easy navigation and use.
 
 Technologies Used
+
 Python: For the core application logic, including menu-driven interfaces and backend functionality.
 MySQL: For storing and managing data such as customer records, room details, and transaction logs.
 
 Libraries/Modules:
+
 mysql-connector-python for database connectivity.
 texttable to organize and format tabular data for display in plain text format.
 
 Standard Python modules for input handling and data processing.
 
-Contributions
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 This project demonstrates the integration of Python with MySQL to create a practical application, showcasing skills in programming, database design, and problem-solving. Ideal for learning and as a foundation for more advanced hotel management systems.
